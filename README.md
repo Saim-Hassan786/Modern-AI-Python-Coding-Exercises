@@ -30,7 +30,7 @@ The main purpose of this project is to:
 - Cover **common patterns, pitfalls, and best practices**.
 - Help learners reason through logic instead of just memorizing syntax.
   
----
+
 
 ## 🧭 Topics Covered
 
@@ -39,15 +39,11 @@ The main purpose of this project is to:
 | ✅ Basics             | Variables, data types, input/output, operators     |
 | 🔄 Control Flow       | If-else, loops (for, while), break, continue       |
 | 📦 Data Structures    | Lists, tuples, sets, dictionaries                  |
-| 🔢 Number Problems    | Primes, Fibonacci, Armstrong, Palindromes, etc.   |
 | 🧵 String Manipulation| Reversing, parsing, searching, formatting          |
 | 🔣 Functions          | Custom functions, recursion, lambda, scope         |
 | 🧰 Modules & Files    | `math`, `random`, file handling (`open`, read/write) |
 | 🧱 OOP                | Classes, objects, inheritance, encapsulation       |
-| 📊 Sorting & Searching| Bubble sort, selection sort, linear/binary search  |
-| 🎯 Miscellaneous      | Patterns, puzzles, logic-based problems            |
 
----
 
 
 ## 🚀 Getting Started
